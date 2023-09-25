@@ -1,7 +1,5 @@
 # 💫 About Me:
-🔭I am currently working to improve my coding skills.<br>👯I am looking to collaborate on any web development projects in django.<br>.🌱I am also currently learning about backend web development and game development
-
-
+🔭I am currently working to improve my coding skills.<br>👯I am looking to collaborate on any web development projects in django.<br>.🌱I am also currently learning about backend web development.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vaseekaran-s-49b208233) 
 
